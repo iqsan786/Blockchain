@@ -1,9 +1,9 @@
-# meDossier : A Decentralized Medical Record Storage
+BlockMedAI – Decentralized AI-Backed Medical Record Verification System
 ---
 ![Main Menu](https://raw.githubusercontent.com/Itshyphen/meDossier/master/Screenshots/Frontpage.png)
 “meDossier” is a proposed blockchain-based web app to assist secure and transparent medical report management integrating the system with the IPFS (InterPlanetary File System) server. The main objective of our proposal is to enable decentralized access control for medical records between a patient and a doctor, along with interacting with various other entities. This app is based on the Ethereum-based blockchain architecture implemented using a simple frontend.
 
-## How does  ‘meDossier’ work?
+## How does  BlockMedAI work?
 - Patients and doctors can add their details to the blockchain. The doctor should be verified by a government authority to be able to use meDossier as a doctor.
 
 - Whenever the patient visits a doctor, the doctor sends the request for access to the patient and can access or upload the patient’s medical report with the help of the IPFS after the patient approves of the request access.
@@ -80,8 +80,8 @@ Live Demo: [meDossier](http://medossier.netlify.app)
 
 
 
-# meDossier-1
-MeDossier is a proposed blockchain-based web app to assist secure and transparent medical report management integrating the system with the IPFS (InterPlanetary File System) server. 
+# BlockMedAI
+BlockMedAI is a proposed blockchain-based web app to assist secure and transparent medical report management integrating the system with the IPFS (InterPlanetary File System) server. 
 The main objective of our proposal is to enable decentralized access control for medical records between a patient and a doctor, along with interacting with various other entities. Similarly ,we have used Moralis (-a serveless platfrom to deploy web3 app) for authentication of the etherum address.
 
 <h2>Workflow of the Project:</h2>
